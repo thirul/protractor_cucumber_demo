@@ -1,5 +1,9 @@
-# protractor_cucumber_demo
-protractor cucumber demo 
+# Protractor Cucumber Demo
+Require versions:<br/>
+Please see the package.json. <br/>
+Protractor 2.5.1<br/>
+Cucumber <br/>
+
 
 # commands
 npm install <br/>
