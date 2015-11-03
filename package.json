@@ -1,0 +1,20 @@
+{
+  "name": "st-protractor-cucumber",
+  "private": false,
+  "version": "0.1.0",
+  "description": "Just a sample project to show how to set up Protractor with Cucumber",
+  "repository": "https://github.com/plopcas/st-protractor-cucumber",
+  "author": "Pedro Lopez (http://softwaretakeaway.wordpress.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "protractor": "~2.5.1",
+    "cucumber": "~0.6.0"
+  },
+  "dependencies": {    
+  },
+  
+  "scripts": {
+
+  
+  }
+}
