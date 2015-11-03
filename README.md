@@ -2,7 +2,7 @@
 Require versions:<br/>
 Please see the package.json. <br/>
 Protractor 2.5.1<br/>
-Cucumber <br/>
+Cucumber 0.6.0<br/>
 
 
 # commands
